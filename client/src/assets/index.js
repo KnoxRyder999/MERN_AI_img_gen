@@ -6,4 +6,4 @@ export {
   download,
   logo,
   preview,
-};
+}
